@@ -1,7 +1,7 @@
 # Lucas Cardoso 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/cardozin84)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascardoso/)](https://www.linkedin.com/in/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascardoso/)](https://www.linkedin.com/in/lucas-cardoso-5a041a114/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lucascardoso946@gmail.com)](mailto:lucascardoso946@gmail.com)
 
 I create ideas and development solutions in the shape of software using my creativity and my technical knowledge in JavaScript/TypeScript by building web apps with React and mobile-apps using React-Native that aren't just beautiful, but are enjoyable to use and really problem-solvers.
