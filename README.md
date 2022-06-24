@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlucascardoso&label=Profile%20views&color=0e75b6&style=flat" alt="devlucascardoso" /> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icardozin)](https://twitter.com/icardozin)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascardoso/)](https://www.linkedin.com/in/lucas-cardoso-5a041a114/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascardoso/)](https://www.linkedin.com/in/lucas-cardoso1/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lucascardoso946@gmail.com)](mailto:lucascardoso946@gmail.com)
-
-A passionate software developer from Brazil.
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/icardozin)](https://twitter.com/icardozin)
 
 I create ideas and develop solutions in the form of software using my creativity and my technical knowledge in JavaScript/TypeScript building web applications. Also, I create RESTful and GraphQL APIs using NodeJS that can handle high request loads and will never disappoint you.
 
